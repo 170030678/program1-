@@ -1,5 +1,6 @@
-import java.util.Scanner;
-public class AddTwoNumbers {
+import java.io.*;
+import java.util.*;
+public class Add{
 
     public static void main(String[] args) {
         
